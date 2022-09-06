@@ -1,0 +1,1 @@
+A scritp that creates an alias
